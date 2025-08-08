@@ -1,0 +1,15 @@
+# Fichiers de log Windows
+*.log
+*.tmp
+
+# Fichiers de sauvegarde
+backup/
+temp/
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers IDE
+.vscode/
+.idea/
